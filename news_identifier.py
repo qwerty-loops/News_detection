@@ -3,10 +3,10 @@
 
 #TF (Term Frequency) : Number of times a word appears in a document. Higher the term frequency, higher the occurence of the word.
 #IDF (Inverse document frequency) : This gives an idea of how important a word might be across a whole corpus.
-#Rare words that have a higher value and a common word has a low value.
+#Rare words have a higher value and a common word have a lower value.
 
 #PassiveAggressive Algorithm : It is an online learning algorithm. 
-#It remains passive for PASSIVE  for correct classification and AGGRESIVE for mistakes/incorrect classification.
+#It remains PASSIVE for correct classification and AGGRESSIVE for mistakes/incorrect classification.
 #The algorithms doesn't converge. This means the data doesn't fit the model, due to the volume of poorely fitted observations.
 #Its purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
 
